@@ -7,6 +7,11 @@ text-align: center;
 margin-top: 20%;
 }
 
+body {
+    background: red;
+    color: white;
+}
+
 .Sim {
 background: green;
 color:white;
